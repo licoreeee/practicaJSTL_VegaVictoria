@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 31 oct 2024, 19:36:50
+    Author     : Dell
+*/
+
+*{
+    background-color: lightcyan;
+    color: cadetblue;
+}
+
+button{
+    color: wheat;
+    background-color: chocolate;
+    border-color: chocolate;
+}
